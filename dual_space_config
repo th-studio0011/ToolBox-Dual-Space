@@ -8,7 +8,8 @@
     "open_splash": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/3540927287"
         },
         {
           "ad_network": "startio"
@@ -18,7 +19,8 @@
     "full_open_app": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/9723192257"
         },
         {
           "ad_network": "startio"
@@ -28,7 +30,8 @@
     "full_clone": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/3157783903"
         },
         {
           "ad_network": "startio"
@@ -38,7 +41,8 @@
     "banner": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/9340048870"
         },
         {
           "ad_network": "startio"
@@ -48,7 +52,8 @@
     "native": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": "ca-app-pub-5026270687123701/8026967202"
         },
         {
           "ad_network": "startio"
