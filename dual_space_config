@@ -20,10 +20,12 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/9723192257"
+          "ad_unit": "ca-app-pub-5026270687123701/9723192257",
+          "enable": false
         },
         {
-          "ad_network": "startio"
+          "ad_network": "startio",
+          "enable": false
         }
       ]
     },
